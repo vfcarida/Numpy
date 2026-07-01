@@ -4,7 +4,7 @@
 [![Numpy Version](https://img.shields.io/badge/numpy-1.24.0%2B-blue.svg)](https://numpy.org/)
 [![Testing](https://img.shields.io/badge/pytest-7.0%2B-brightgreen.svg)](https://docs.pytest.org/en/7.0.x/)
 
-## Visão Executiva
+## Overview
 Este projeto é um repositório didático voltado ao aprendizado avançado de Álgebra Linear computacional utilizando **Numpy**. O repositório foi refatorado a partir de um monolito (Jupyter Notebook) para uma arquitetura moderna de pacotes Python (`src/`), garantindo a testabilidade, modularidade e clareza do código.
 
 Ideal para estudo focado na teoria (arrays, vetores, matrizes, tensores) junto a boas práticas de Engenharia de Software.
